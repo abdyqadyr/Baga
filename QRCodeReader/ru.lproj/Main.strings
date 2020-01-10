@@ -1,0 +1,54 @@
+
+/* Class = "UILabel"; text = "Choose language: "; ObjectID = "5TP-1g-odU"; */
+"5TP-1g-odU.text" = "Выберите язык: ";
+
+/* Class = "UILabel"; text = "Detail"; ObjectID = "6Ga-QB-WCB"; */
+"6Ga-QB-WCB.text" = "Детали";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "7zg-cX-Ktc"; */
+"7zg-cX-Ktc.text" = "Название";
+
+/* Class = "UILabel"; text = "No barcode detected"; ObjectID = "AAl-zJ-uU4"; */
+"AAl-zJ-uU4.text" = "Штрих-код не найден";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "DNa-cj-l9Y"; */
+"DNa-cj-l9Y.text" = "0";
+
+/* Class = "UILabel"; text = "© 2019 Baga. Developed by: "; ObjectID = "Mth-89-dpR"; */
+"Mth-89-dpR.text" = "© 2019 Baga. Developed by: ";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "OLR-6x-aS4"; */
+"OLR-6x-aS4.text" = "Название";
+
+/* Class = "UILabel"; text = "Baǵa"; ObjectID = "RPg-dF-2pY"; */
+"RPg-dF-2pY.text" = "Baǵa";
+
+/* Class = "UILabel"; text = "Recently Scanned Items"; ObjectID = "XPW-xx-yUb"; */
+"XPW-xx-yUb.text" = "Cканированные продукты";
+
+/* Class = "UIButton"; normalTitle = "Русский"; ObjectID = "ZS0-LR-IwJ"; */
+"ZS0-LR-IwJ.normalTitle" = "Русский";
+
+/* Class = "UIButton"; normalTitle = "English"; ObjectID = "aBD-Aw-Og9"; */
+"aBD-Aw-Og9.normalTitle" = "English";
+
+/* Class = "UILabel"; text = "Sum: "; ObjectID = "jfE-bQ-eld"; */
+"jfE-bQ-eld.text" = "Сумма: ";
+
+/* Class = "UIButton"; normalTitle = "Қазақша"; ObjectID = "q5k-Gf-Orw"; */
+"q5k-Gf-Orw.normalTitle" = "Қазақша";
+
+/* Class = "UILabel"; text = "Settings"; ObjectID = "sgF-oz-XUF"; */
+"sgF-oz-XUF.text" = "Настройки";
+
+/* Class = "UILabel"; text = "Detail"; ObjectID = "syp-fE-YRC"; */
+"syp-fE-YRC.text" = "Детали";
+
+/* Class = "UILabel"; text = "Auyelgazin Kuanysh"; ObjectID = "vsA-uX-0tN"; */
+"vsA-uX-0tN.text" = "Auyelgazin Kuanysh";
+
+/* Class = "UILabel"; text = "Abdykadyr Maksat"; ObjectID = "xJ6-8T-9II"; */
+"xJ6-8T-9II.text" = "Abdykadyr Maksat";
+
+/* Class = "UILabel"; text = "Scan"; ObjectID = "zmi-Qa-jYL"; */
+"zmi-Qa-jYL.text" = "Сканировать";
